@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "760916323428",
+    "firebase_url": "https://chatapp-930cb.firebaseio.com",
+    "project_id": "chatapp-930cb",
+    "storage_bucket": "chatapp-930cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760916323428:android:7f2df5447728472f01c371",
+        "android_client_info": {
+          "package_name": "co.Shubham_Gupta.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760916323428-64a5gv5bpkoc2m4lii37u57plvc7mi4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1zGIwwH9HPYMydvqW4ObrZoO8-StXgVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760916323428-64a5gv5bpkoc2m4lii37u57plvc7mi4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
