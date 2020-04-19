@@ -1,6 +1,9 @@
 
 
 A new Flutter application.
+A simple Chat Application with some Firebase Authentication.
+
+<img src ="https://github.com/ShubhamGupta19/Flutter-Simple-Chat-App/blob/master/simplechat.gif">
 
 
 ## Getting Started
